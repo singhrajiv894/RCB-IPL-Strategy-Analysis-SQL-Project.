@@ -50,4 +50,4 @@ The project also highlights the importance of all-rounder impact, bowling streng
 This project demonstrates how SQL can be used to transform IPL match and player data into actionable sports analytics insights. The analysis supports strategic thinking around player selection, auction planning, venue strategy, and team performance.
 ## Author
 **Rajiv Kumar**
-Data Analyst| SQL | Excel | Power BI | Python
+  Data Analyst| SQL | Excel | Power BI | Python
