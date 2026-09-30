@@ -1,4 +1,4 @@
-# RCB IPL Strategy Analysis | SQL Project
+# RCB IPL Strategy Analysis | SQL 
 ## Project Overview
 This project uses SQL and IPL ball-by-ball data to analyze player performance, team performance, venue trends, toss impact, and strategic factors relevant to Royal Challengers Bangalore (RCB).
 The analysis focuses on identifying high-impact and consistent players and generating data-driven insights to support player retention, auction strategy, and team planning.
@@ -49,5 +49,5 @@ The project also highlights the importance of all-rounder impact, bowling streng
 ## Conclusion
 This project demonstrates how SQL can be used to transform IPL match and player data into actionable sports analytics insights. The analysis supports strategic thinking around player selection, auction planning, venue strategy, and team performance.
 ## Author
-**Rajiv Kumar**
-  Data Analyst| SQL | Excel | Power BI | Python
+*Rajiv Kumar | Data Analyst | SQL | Excel | Power BI | Python*
+🔗 [LinkedIn](https://www.linkedin.com/in/rajiv-kumar-da/)
