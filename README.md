@@ -41,6 +41,8 @@ The analysis focuses on identifying high-impact and consistent players and gener
 - `Presentation/` – Project presentation and insights
 - `Documentation/` – Detailed project documentation
 - `Images/` – Project preview/dashboard images
+## Project Preview
+![RCB IPL Strategy Preview](./RCB_IPL_Strategy_Preview.PNG)
 ## Key Findings
 The analysis evaluates batting champions, bowling performers, venue-specific trends, toss impact, RCB's seasonal performance, and strategic KPIs.
 The project also highlights the importance of all-rounder impact, bowling strength, venue-based squad planning, and data-driven tactical decisions.
